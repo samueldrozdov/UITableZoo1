@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  UIZooTableViewController.h
 //  UITableZoo
 //
 //  Created by Samuel Drozdov on 10/26/14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface UIZooTableViewController : UITableViewController
 
 @end
-
