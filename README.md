@@ -1,9 +1,11 @@
 UITableZoo1
 ===========
 
-Table View UI Exploration
+UITableView Exploration
 
 Current Features:
 
-    1) Disappearing/Reappearing table view header 
-    2) Cells that scroll left and right 
+    1) Header segmented controller reappears on scroll up
+    2) Cells perform action on left/right swipe
+
+![Demo](http://i.giphy.com/TlK63ECUyY7kYrsn9pC.gif)
